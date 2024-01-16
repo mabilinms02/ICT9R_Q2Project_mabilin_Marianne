@@ -1,5 +1,5 @@
 body {
-	background-image: url("Christmas Bg.png");
+	background-image: url("Welcome to Philippines' banner 4-1.webp");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed;
@@ -9,6 +9,7 @@ body {
 
 #theme {
 	letter-spacing: 15px;
+	background-color: skyblue;
 }
 
 #title {
